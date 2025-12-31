@@ -3,3 +3,5 @@ numpy
 mathplotlib
 scikit-learn
 streamlit
+seaborn
+tensonrflow
